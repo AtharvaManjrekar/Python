@@ -1,0 +1,10 @@
+# taking input from user and displaying it
+name =input("Enter your name : ")
+roll_no = int(input("Enter your roll no : "))
+age = int(input("Enter the age : "))
+marks = int(input("Enter your marks : "))
+print("BIO-DATA:-")
+print("Name: ",name)
+print("roll no: ",roll_no)
+print("age: ",age)
+print("marks: ",marks)
